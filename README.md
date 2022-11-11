@@ -4,7 +4,7 @@ An open-source software for analyzing, visualizing
 and quantifying EEG source-space NETworks
 by Aya Kabbara, Mahmoud Hassan
 
-![](‎⁨readme1.jpeg)
+![](‎⁨figures/readme1.jpeg)
 
 *EEGLINK*
 
@@ -24,7 +24,7 @@ the `data` folder.
 
 EEGLink covers the basic EEG/MEG pipeline for brain network reconstruction and analysis: loading data, epoching, plotting, estimating cortical activity from sensor data, computing connectivity, illustrating the network, quantifying the network using graph theory, group analysis and dynamic analysis.
 
-![](‎⁨readme2.jpeg)
+![](‎⁨figures/readme2.jpeg)
 
 ## External tools
 
