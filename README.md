@@ -3,8 +3,7 @@
 An open-source software for analyzing, visualizing 
 and quantifying EEG source-space NETworks
 by Aya Kabbara, Mahmoud Hassan
-
-![](‎⁨figures/readme1.jpeg)
+![](‎⁨figures/hjhj.png)
 
 *EEGLINK*
 
