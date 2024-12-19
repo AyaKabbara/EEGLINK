@@ -55,8 +55,5 @@ A detailed guide to start using EEGLINK can be found on the [wiki](https://githu
 
 ## References
 
-The EEGLINK paper is submitted now for publication in XXX, and can be found as preprint in bioRxiv.
+The EEGLINK paper is submitted now for publication in NeuroImage, and can be found as preprint in bioRxiv.
 
-Please use the following citation if you use EEGLINK:
-
-XX
