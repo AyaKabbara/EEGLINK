@@ -37,17 +37,28 @@ Many EEGLink functions have external tools dependencies. The integrated tools ar
 
 ## Getting the code
 
-You can download a copy of all the files in this repository by cloning the
-[git](https://git-scm.com/) repository:
+Kindly download the release, including all the necessary files for the project.
 
-    git clone https://github.com/AyaKabbara/EEGLINK.git
+_### Option 1: Recombine Parts_
 
-or [download a zip archive](https://github.com/AyaKabbara/EEGLINK.zip).
+To recombine the parts into the original ZIP file, use the following command on a Unix-based system:
+
+```sh
+cat eeglink_part_* > eeglink.zip
+
+_### Option 2: Direct Download_
+For convenience, you can download the full release as a single ZIP file from the following link:
+
+Download [eeglink.zip](https://drive.google.com/file/d/1KtyoIk0Uw79RsJ52FqqJBDd-eh84g3Q3/view?usp=drive_link)
 
 ## Run EEGLINK
 
 To run EEGLINK, start Matlab and change your working directory to the root folder EEGLINK.
 Then, type EEGLink in Matlab command window.
+
+## Test EEGLINK using sample signals
+
+signals repository can be find [here](https://drive.google.com/file/d/1r0e2iA5rWu9-O8es6iYHldIR9Q8W-acx/view?usp=drive_link)
 
 ## Manual
 
