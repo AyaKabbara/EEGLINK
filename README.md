@@ -39,14 +39,15 @@ Many EEGLink functions have external tools dependencies. The integrated tools ar
 
 Kindly download the release, including all the necessary files for the project.
 
-_### Option 1: Recombine Parts_
+### Option 1: Recombine Parts
 
 To recombine the parts into the original ZIP file, use the following command on a Unix-based system:
 
 ```sh
 cat eeglink_part_* > eeglink.zip
 
-_### Option 2: Direct Download_
+### Option 2: Direct Download
+
 For convenience, you can download the full release as a single ZIP file from the following link:
 
 Download [eeglink.zip](https://drive.google.com/file/d/1KtyoIk0Uw79RsJ52FqqJBDd-eh84g3Q3/view?usp=drive_link)
