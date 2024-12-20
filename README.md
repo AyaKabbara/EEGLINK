@@ -43,7 +43,6 @@ Kindly download the release, including all the necessary files for the project.
 
 To recombine the parts into the original ZIP file, use the following command on a Unix-based system:
 
-```sh
 cat eeglink_part_* > eeglink.zip
 
 ### Option 2: Direct Download
